@@ -1,3 +1,3 @@
-# Kokoa Clone Update
+# Kokoa Clone coding
 
-CSS go
+Kokoa talk Clone coding
